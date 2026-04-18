@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# UPDATE the Sitemap URL after deploying
+Sitemap: https://sai-palace-lodge-bidar.netlify.app/sitemap.xml
