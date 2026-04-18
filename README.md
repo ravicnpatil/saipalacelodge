@@ -13,7 +13,7 @@ A professional, mobile-friendly website for Sai Palace Lodge boarding & lodging.
 2. **Drag and drop** the `sai-palace-lodge-bidar` folder onto the page
 3. Your site will be live instantly with a free URL like `https://random-name.netlify.app`
 4. Sign up for a free Netlify account to keep the site permanent
-5. You can change the URL to something like `https://sai-palace-lodge-bidar.netlify.app`
+5. You can change the URL to something like `https://saipalacelodge.netlify.app`
 
 ### Option 2: GitHub Pages
 1. Create a free account at [https://github.com](https://github.com)
